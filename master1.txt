@@ -1,0 +1,3 @@
+Hello! 
+This is master1 .txt file.
+~~to learn Git for Intro to Front - End Development from Simplilearn.

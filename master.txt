@@ -1,2 +1,4 @@
 Hello!
-sdfghkjhgf
+This is master.txt file.
+~~to learn Git commands from Intro to Front - End Development from Simplilearn.
+lalalalallalalaa!!!!!
